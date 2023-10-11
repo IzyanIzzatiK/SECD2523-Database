@@ -34,7 +34,7 @@
 
 ---
 
-## Course synopsis
+## Course Synopsis
 
 <div align="justify">
 This course introduces students to the concept of database system and how it is used in daily human life and profession. The focus of the course is to equip students with the knowledge and skills on important steps and techniques used in developing a database, especially in the conceptual and logical database design phase. Among topics covered are database environment, database design, entity relationship diagram, normalization, and structured query language (SQL). Students will be taught to use a database management system (DBMS). Students are required to design and develop the database component of an information system using the learned techniques, DBMS and a development tool. At the end of the course, students should be able to apply the knowledge of designing and developing a good database system.
