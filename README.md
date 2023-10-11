@@ -1,9 +1,9 @@
 # Course Information
 
-<table>
+<table align="center">
   <tr>
-    <td>School/Faculty:</td>
-    <td>Faculty of Computing</td>
+    <td width="40%">School/Faculty:</td>
+    <td width="60%">Faculty of Computing</td>
   </tr>
   <tr>
     <td>Program name:</td>
