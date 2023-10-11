@@ -174,7 +174,25 @@ This course introduces students to the concept of database system and how it is 
 
 </table>
 
-
+---
+### Details on Innovative T&L practices:
+<table>
+  <tr>
+    <td>No.</td>
+    <td>Type</td>
+    <td>Implementation</td>
+  </tr>
+  <tr>
+    <td>1. </td>
+    <td>Active learning</td>
+    <td>Conducted through in-class activities</td>
+  </tr>
+  <tr>
+    <td>2. </td>
+    <td>Project-based learning</td>
+    <td>Conducted in a group project assignment. Students, in a group of 3 or 4, are required to develop a database application system for a selected company. Students are required to go through the database system development methodology starting from determining the database requirements until developing the database application system.  Students shall apply all relevant knowledge acquired throughout the semester on the project. Students are assessed on their ability to deliver a creative database design solution that will be able fulfill the requirements identified.</td>
+  </tr>
+</table>
 
 ---
 
