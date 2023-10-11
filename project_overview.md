@@ -1,7 +1,8 @@
 # PROJECT OVERVIEW <br> (DATABASE 20232024 – SEM 1)
 
-- [DESCRIPTION](#DESCRIPTION) <br>
-- [PROPOSED SYSTEM REQUIREMENT](#PROPOSED-SYSTEM-REQUIREMENT)
+- [DESCRIPTION](#description) <br>
+- [PROPOSED SYSTEM REQUIREMENT](#proposed-system-requirement) <br>
+- [PROJECT SUBMISSION TIMELINE](#project-submission-timeline)
 
 ## ** HIGHLY RECOMMENDED to do the project in the same group & case study with SECD2613 (SAD) **
 
@@ -28,4 +29,6 @@ Each student in the group will be responsible for designing at least ONE module.
 3.	Students will do a demo of the project in the Final Phase.
 Students would need to demo:
 A relational database schema, working query (DML) based on the DDL design of the project and related to the interface (from SAD).
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+### PROJECT SUBMISSION TIMELINE
+*This is just a suggested timeline, please refer to your section lecturers for further instruction
