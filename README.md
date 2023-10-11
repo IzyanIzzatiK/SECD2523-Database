@@ -127,11 +127,11 @@ This course introduces students to the concept of database system and how it is 
 <table align="center">
   <tr align="center">
     <th>No.</th>
-    <th>CLO</th>
+    <th width="30%">CLO</th>
     <th>PLO (Code)</th>
     <th>*Taxonomies and **generic skills</th>
     <th>T&L methods</th>
-    <th>***Assessment methods</th>
+    <th width="20%">***Assessment methods</th>
   </tr>
   <tr align="center">
     <td>CLO1</td>
