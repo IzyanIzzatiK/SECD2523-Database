@@ -41,9 +41,9 @@
 - [Student learning time (SLT) details](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#student-learning-time-slt-details)
 - [Special requirements](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#special-requirements-to-deliver-the-course-eg-software-nursery-computer-lab-simulation-room)
 - [Learning Resources](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#learning-resources)
-- [Main references](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#main-references)
-- [Additional references](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#additional-references)
-- [Online](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#online)
+  - [Main references](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#main-references)
+  - [Additional references](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#additional-references)
+  - [Online](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#online)
 - [Academic Honesty and Plagiarism](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#academic-honesty-and-plagiarism-below-is-just-a-sample)
 - [Disclaimer](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#disclaimer)
 
