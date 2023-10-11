@@ -34,6 +34,21 @@
 
 ---
 
+ - [Course Synopsis](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#course-synopsis)
+  - [CLO/PLO/T&L](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#mapping-of-the-course-learning-outcomes-clo-to-the-programme-learning-outcomes-plo-teaching--learning-tl-methods-and-assessment-methods)
+  - [Details on Innovative T&L practices](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#details-on-innovative-tl-practices)
+  - [Transferable skills](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#transferable-skills-generic-skills-learned-in-course-of-study-which-can-be-useful-and-utilised-in-other-settings)
+  - [Student learning time (SLT) details](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#student-learning-time-slt-details)
+  - [Special requirements](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#special-requirements-to-deliver-the-course-eg-software-nursery-computer-lab-simulation-room)
+  - [Learning Resources](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#learning-resources)
+    - [Main references](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#main-references)
+    - [Additional references](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#additional-references)
+    - [Online](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#online)
+  - [Academic Honesty and Plagiarism](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#academic-honesty-and-plagiarism-below-is-just-a-sample)
+  - [Disclaimer](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#disclaimer)
+
+---
+
 ## Course Synopsis
 
 <div align="justify">
