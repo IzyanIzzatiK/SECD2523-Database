@@ -196,6 +196,11 @@ This course introduces students to the concept of database system and how it is 
 
 ---
 
+### Transferable skills (generic skills learned in course of study which can be useful and utilised in other settings):
+- Team working
+- Written communication
+---
+
 
 ## Course Information
 ###  Student learning time (SLT) details:
@@ -205,7 +210,7 @@ This course introduces students to the concept of database system and how it is 
     <th>Distribution of Student Learning Time (SLT) Course Outline</th>
     <th colspan="4">Guided Learning (Face to Face)</th>
     <th>Guided Learning (Non-Face to Face)</th>
-    <th>Independent Learning</th>
+    <th>Independent Learning (Non-Face to Face)</th>
     <th>SLT</th>
   </tr>
   <tr align="center">
@@ -225,7 +230,7 @@ This course introduces students to the concept of database system and how it is 
     <th></th>
     <th></th>
     <th></th>
-    <th></th>
+    <th>7.5</th>
     <th><strong>15.5h</strong></th>
   </tr>
   <tr align="center">
@@ -259,7 +264,6 @@ This course introduces students to the concept of database system and how it is 
     <th>10</th>
     <th><strong>24h</strong></th>
   </tr>
-  <!-- Total SLT -->
   <tr align="center">
     <th><strong>Total SLT</strong></th>
     <th><strong>12</strong></th>
@@ -272,3 +276,88 @@ This course introduces students to the concept of database system and how it is 
   </tr>
 </table>
 
+
+
+<br>
+<table align="center">
+  <tr align="center">
+    <th colspan="2">Continuous Assessment</th>
+    <th>PLO</th>
+    <th>Percentage</th>
+    <th>Total SLT</th>
+  </tr>
+  <tr>
+    <td>1</th>
+    <td>Weekly task</td>
+    <td align="center">PLO 1 CLO1</td>
+    <td align="center">10</td>
+    <td align="center">3.5h</td>
+  </tr>
+  <tr>
+    <td>2</th>
+    <td>Lab Exercises</td>
+    <td align="center">PLO3 CLO3</td>
+    <td align="center">10</td>
+    <td align="center">6h</td>
+  </tr>
+  <tr>
+    <td>3</th>
+    <td>Project</td>
+    <td align="center">PLO2 CLO2 <br> PLO3 CLO3 <br> PLO4 CLO4</td>
+    <td align="center">10 <br> 10 <br> 10</td>
+    <td align="center">As in CLO 2, 3, 4</td>
+  </tr>
+  <tr align="center">
+    <th colspan="2">Assessment</th>
+    <th></th>
+    <th>Percentage</th>
+    <th>Total SLT</th>
+  </tr>
+  <tr>
+    <td>1</th>
+    <td>Final Exam</td>
+    <td align="center">PLO1 CLO1 <br> PLO2 CLO2 <br> PLO3 CLO3</td>
+    <td align="center">5 (MCQ) <br> 15 (Structured) <br> 10 (SQL)</td>
+    <td align="center">3h</td>
+  </tr>
+  <tr>
+    <td>2</th>
+    <td>Lab Exercises</td>
+    <td align="center">PLO1 CLO1 <br> PLO2 CLO2 <br> PLO3 CLO3</td>
+    <td align="center">5 (MCQ) <br>  10 (Structured) <br> 5 (SQL)</td>
+    <td align="center">2.5h</td>
+  </tr>
+  <tr>
+    <td colspan="3" align="right">Grand Total</td>
+    <td align="center">100</td>
+    <td></td>
+  </tr>
+</table>
+L: Lecture, T: Tutorial, P: Practical, O: Others
+
+---
+
+
+### Special requirements to deliver the course (e.g.: software, nursery, computer lab, simulation room):
+- Computer lab that is equipped with Database Management System (DBMS) software, ERD software designer tool, application program software
+
+---
+
+### Learning resources:
+<h4>Main references</h4>
+- Connolly, T., Begg, C. Database Systems: A Practical Approach to Design, Implementation, and Management. 6th Edition, Pearson Education International, 2015.
+
+<h4>Additional references</h4>
+- Coronel, C., Morris, S. Database Systems: Design, Implementation, and Management. 13th Edition, Course Technology-Cengage Learning, 2019.
+
+<h4>Online</h4>
+- <href>http://elearning.utm.my</href>
+
+
+### Academic honesty and plagiarism: (Below is just a sample)
+Assignments are individual tasks and NOT group activities (UNLESS EXPLICITLY INDICATED AS GROUP ACTIVITIES) 
+Copying of work (texts, simulation results etc.) from other students/groups or from other sources is not allowed. Brief quotations are allowed and then only if indicated as such. Existing texts should be reformulated with your own words used to explain what you have read. It is not acceptable to retype existing texts and just acknowledge the source as a reference. Be warned: students who submit copied work will obtain a mark of zero for the assignment and disciplinary steps may be taken by the Faculty.  It is also unacceptable to do somebody else’s work, to lend your work to them or to make your work available to them to copy.
+
+### Disclaimer:
+All teaching and learning materials associated with this course are for personal use only. The materials are intended for educational purposes only. Reproduction of the materials in any form for any purposes other than what it is intended for is prohibited. 
+While every effort has been made to ensure the accuracy of the information supplied herein, Universiti Teknologi Malaysia cannot be held responsible for any errors or omissions. 
