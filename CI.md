@@ -201,8 +201,6 @@ This course introduces students to the concept of database system and how it is 
 - Written communication
 ---
 
-
-## Course Information
 ###  Student learning time (SLT) details:
 
 <table>
