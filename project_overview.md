@@ -35,4 +35,4 @@ A relational database schema, working query (DML) based on the DDL design of the
 
 ### PROJECT SUBMISSION TIMELINE
 *This is just a suggested timeline, please refer to your section lecturers for further instruction <br>
-![project timeline 1](/project timeline 1.png)
+![project timeline 1](project-timeline-1.png)
