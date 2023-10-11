@@ -5,7 +5,7 @@
 ## Table of Content
 
 - [Course Information](CI.md)
-  - [try](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#course-synopsis)
+  - [Course Synopsis](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#course-synopsis)
 - [Project Overview](project_overview.md)
   - [Phase 1](phase1.md)
   - [Phase 2](phase2.md)
