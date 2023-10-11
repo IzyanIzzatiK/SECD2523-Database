@@ -4,6 +4,8 @@
 - [P1 Guidlines](#p1-guidelines)
 - [P1 Proposal Item](#p1-proposal-item)
 - [P1 Rubrics](#p1-rubrics)
+  - [1. Project Proposal](#1-project-proposal)
+  - [2. Database Requirements](#2-database-requirements)
 
 <table>
   <tr>
@@ -119,3 +121,101 @@ Prepare a proposal with the items below:
 - 9.0	Transaction requirement (data entry, data update/delete, data queries)
 - 10.0	Benefit and Summary of Proposed System
 - 11.0	Summary
+
+---
+
+## P1 Rubrics
+
+### 1. Project Proposal
+
+<table>
+  <tr>
+    <th>Criteria</th>
+    <th>High (4)</th>
+    <th>Average (3)</th>
+    <th>Low (2)</th>
+    <th>Unsatisfied (1)</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Explains Issues and Clear Content Organization</td>
+    <td>CLEARLY identifies and summarizes main issues and successfully explains why/how they are problems or questions; and identifies embedded or implicit issues, addressing their relationship</td>
+    <td>SUCCESSFULLY identifies and summarizes the main issues, but does not explain why/how they are problems or create questions.</td>
+    <td>IDENTIFIES main issues but does not summarize or explain them clearly or sufficiently </td>
+    <td>FAILS to identify, summarize, or explain the main problem or questions. 
+Represents the issues inaccurately or inappropriately. 
+</td>
+  </tr>
+  <tr>
+    <td>The method of an organization is WELL-SUITED to the assignment; clear intro, body, and conclusion with effective transitions.</td>
+    <td>Organization SUPPORTS assignment and purpose; sequence of ideas could be improved </td>
+    <td>SOME SIGNS of logical organization. May have abrupt or illogical shifts and ineffective flows of ideas </td>
+    <td>POORLY organized OR demonstrates serious problems with the progression of ideas; a written form of speech </td>
+  </tr>
+  <tr>
+    <td rowspan="2">Content Development & Writing</td>
+    <td>Content is somewhat ACCURATE AND CLEAR; offers SOLID AND ACCURATE reasoning; contains appropriate details and/or examples</td>
+    <td>Content is somewhat ACCURATE AND FAIRLY CLEAR; offers SOLID BUT LESS ACCURATE reasoning; contains some appropriate details and/or examples</td>
+    <td>Content is somewhat VAGUE OR only LOOSELY RELATED to the writing task; at times may be OFF TOPIC OR TOO BROAD with limited support</td>
+    <td>Content UNCLEAR; LAPSES IN COHERENCE OR NO RELATION to writing task; offers simplistic, undeveloped support for ideas.</td>
+  </tr>
+  <tr>
+    <td>Written works has NO MAJOR ERRORS in word selection and use, sentence structure, spelling, punctuation and capitalization.</td>
+    <td>Written works is RELATIVELY FREE OF ERRORS in word selection and use, sentence structure, spelling, punctuation and capitalization </td>
+    <td>Written work has SEVERAL MAJOR ERRORS in word selection and use, sentence structure, spelling, punctuation and capitalization </td>
+    <td>Written work has SERIOUS AND PERSISTENT ERRORS in word selection and use, sentence structure, spelling, punctuation and capitalization </td>
+  </tr>
+  <tr>
+    <td>Complete System boundaries</td>
+    <td>COMPLETE description of scope and boundaries of database application and the major user views. Able to ACCURATELY identify all user views for the proposed database application. </td>
+    <td>PARTIAL description of scope and boundaries of database application and the major user views. Able to identify all user views for the proposed database application with MINIMAL ERRORS. </td>
+    <td>MINIMAL description of scope and boundaries of database application and the major user views. Able to identify all user views for the proposed database application with MAJOR ERRORS.</td>
+    <td>NO description of scope and boundaries of database application and the major user views. UNABLE to identify all user views for the proposed database application.</td>
+  </tr>
+  <tr>
+    <td>Complete Project Plan</td>
+    <td>Complete, precise, and clear task description.
+Time allocation for each task is HIGHLY ACCEPTABLE.
+</td>
+    <td>The task description is FAIRLY COMPLETE AND CLEAR.
+Time allocation for each task is ACCEPTABLE.
+</td>
+    <td>The task description is vague and unclear.
+Time allocation for each task is FAIRLY ACCEPTABLE.
+</td>
+    <td>Unclear and incomplete task description.
+Time allocation for each task is UNLOGIC and UNACCEPTABLE.
+</td>
+  </tr>
+</table>
+
+### 2. Database Requirements
+<table>
+  <tr>
+    <th>Criteria</th>
+    <th>High (4)</th>
+    <th>Average (3)</th>
+    <th>Low (2)</th>
+    <th>Unsatisfied (1)</th>
+  </tr>
+  <tr>
+    <td>Identify the database requirement based on the case study.</td>
+    <td>Correctly interpreted ALL business rules with a CLEAR idea on the entity, attribute, and relationship.</td>
+    <td>Correctly interpreted MOST of the business rules with GOOD ideas on the entity, attribute, and relationship.</td>
+    <td>INACCURATELY interpreted the business rules with WRONG ideas on the entity, attribute, and relationship.</td>
+    <td>UNABLE to interpret the business rules with NO IDEA entity, attribute, and relationship.</td>
+  </tr>
+  <tr>
+    <td>Produce data requirements for information stored</td>
+    <td>ACCURATE use of names in entities, attributes, relationships, and user view – ALL data types are appropriately used in regard to its requirement.</td>
+    <td>Some MINOR errors in the use of names in entities, attributes, relationships, and user view – FEW data types are not clear/suitable with its requirement.</td>
+    <td>INACCURATE use of names in entities, attributes, relationships, and user view – the data type DID NOT correlate with its requirement.</td>
+    <td>WRONG use of names in entities, attributes, relationships, and user view. Shows NO understanding in identifying the data type used in regard to its requirement.</td>
+  </tr>
+  <tr>
+    <td>Produce a set of transaction requirements for the current/manual system based on the case study. </td>
+    <td>GOOD understanding of the business rules and able to produce ACCURATE and SUITABLE set of transaction requirements.</td>
+    <td>PARTIAL understanding of the business rules and having MINIMAL ERROR in producing a set of transaction requirements.</td>
+    <td>INCORRECTLY understand the business rules and produce an INACCURATE set of transaction requirements.</td>
+    <td>FAIL to understand the business rule and produce WRONG set of transaction requirements.</td>
+  </tr>
+</table>
