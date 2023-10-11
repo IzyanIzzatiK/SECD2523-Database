@@ -125,7 +125,7 @@ This course introduces students to the concept of database system and how it is 
 ### Mapping of the Course Learning Outcomes (CLO) to the Programme Learning Outcomes (PLO), Teaching & Learning (T&L) methods and Assessment methods:
 
 <table align="center">
-  <tr>
+  <tr align="center">
     <th>No.</th>
     <th>CLO</th>
     <th>PLO (Code)</th>
@@ -133,7 +133,7 @@ This course introduces students to the concept of database system and how it is 
     <th>T&L methods</th>
     <th>***Assessment methods</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td>CLO1</td>
     <td>Apply the fundamental database (DB) principles in DB system lifecycle.</td>
     <td>PLO1 (KW) 20%</td>
@@ -142,7 +142,7 @@ This course introduces students to the concept of database system and how it is 
     <td>Weekly task (10%) <br> Mid-Term Exam (5%) <br> Final Exam (5%)
 </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>CLO2</td>
     <td>Develop a logical database design using entity-relationship diagram (ERD) and normalization techniques.</td>
     <td>PLO2 (AP) 35%</td>
@@ -151,7 +151,7 @@ This course introduces students to the concept of database system and how it is 
     <td>Mid-Term (10%) <br> Final Exam (15%) <br> Project Report (10%)
 </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>CLO3</td>
     <td>Construct Structured Query Language (SQL) statements for database manipulation using a database management system (DBMS).</td>
     <td>PLO3 (PS) 35% </td>
@@ -160,7 +160,7 @@ This course introduces students to the concept of database system and how it is 
     <td>Lab Exercise (10%) <br>  Final Exam - SQL (10%) <br>  Mid-Term Exam (5%) <br>  Project Report (10%)
 </td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>CLO4</td>
     <td>Develop the database component for a database application solution using learned designing techniques, DB language, DBMS, and development tools.</td>
     <td>PLO5 (TH) 10% </td>
