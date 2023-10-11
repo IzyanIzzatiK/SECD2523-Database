@@ -120,6 +120,60 @@ This course introduces students to the concept of database system and how it is 
   </tr>
 </table>
 
+---
+
+### Mapping of the Course Learning Outcomes (CLO) to the Programme Learning Outcomes (PLO), Teaching & Learning (T&L) methods and Assessment methods:
+
+<table align="center">
+  <tr>
+    <th>No.</th>
+    <th>CLO</th>
+    <th>PLO (Code)</th>
+    <th>*Taxonomies and **generic skills</th>
+    <th>T&L methods</th>
+    <th>***Assessment methods</th>
+  </tr>
+  <tr>
+    <td>CLO1</td>
+    <td>Apply the fundamental database (DB) principles in DB system lifecycle.</td>
+    <td>PLO1 (KW) 20%</td>
+    <td>C3</td>
+    <td>Lecture, KWL Chart, Think-pair-share.</td>
+    <td>Weekly task (10%) <br> Mid-Term Exam (5%) <br> Final Exam (5%)
+</td>
+  </tr>
+  <tr>
+    <td>CLO2</td>
+    <td>Develop a logical database design using entity-relationship diagram (ERD) and normalization techniques.</td>
+    <td>PLO2 (AP) 35%</td>
+    <td>C5</td>
+    <td>Lecture, KWL Chart, Think-pair-share, cooperative learning, problem-solving, PoBL</td>
+    <td>Mid-Term (10%) <br> Final Exam (15%) <br> Project Report (10%)
+</td>
+  </tr>
+  <tr>
+    <td>CLO3</td>
+    <td>Construct Structured Query Language (SQL) statements for database manipulation using a database management system (DBMS).</td>
+    <td>PLO3 (PS) 35% </td>
+    <td>C5</td>
+    <td>Lecture, Lab work, PoBL</td>
+    <td>Lab Exercise (10%) <br>  Final Exam - SQL (10%) <br>  Mid-Term Exam (5%) <br>  Project Report (10%)
+</td>
+  </tr>
+  <tr>
+    <td>CLO4</td>
+    <td>Develop the database component for a database application solution using learned designing techniques, DB language, DBMS, and development tools.</td>
+    <td>PLO5 (TH) 10% </td>
+    <td>TH3</td>
+    <td>PoBL</td>
+    <td>Project Report (10%)</td>
+  </tr>
+  <tr>
+    <td colspan="6">Refer *Taxonomies of Learning and **UTM’s Graduate Attributes, where applicable for measurement of outcomes achievement</td>
+  </tr>
+
+</table>
+
 
 
 ---
