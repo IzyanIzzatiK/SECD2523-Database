@@ -29,6 +29,10 @@ Each student in the group will be responsible for designing at least ONE module.
 3.	Students will do a demo of the project in the Final Phase.
 Students would need to demo:
 A relational database schema, working query (DML) based on the DDL design of the project and related to the interface (from SAD).
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+---
+
+
 ### PROJECT SUBMISSION TIMELINE
-*This is just a suggested timeline, please refer to your section lecturers for further instruction
+*This is just a suggested timeline, please refer to your section lecturers for further instruction <br>
+![project timeline 1](/project timeline 1.png)
