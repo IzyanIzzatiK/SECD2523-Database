@@ -162,3 +162,114 @@ Prepare a Database conceptual design as below:
     <td>Populated the tables with MINIMAL data elements as outlined in the ERD design - with NUMEROUS errors.</td>
   </tr>
 </table>
+
+#### C.	Interface (2%)
+<table>
+  <tr>
+    <th>Criteria</th>
+    <th>High (4)</th>
+    <th>Average (3)</th>
+    <th>Low (2)</th>
+    <th>Unsatisfied (1)</th>
+  </tr>
+  <tr>
+    <td>Appropriateness to target user </td>
+    <td>Prototype uses terms and symbols APPROPRIATE to target user. Look and feel APPROPRIATE to the target user. <br><br> Usability APPROPRIATE to target user. 
+    </td>
+      <td>Prototype designed for a WELL-DEFINED target user.
+      <br><br>
+        Usability is APPROPRIATE to the target user. 
+  </td>
+  <td>Prototype designed WITHOUT well-defined target user in mind.
+      <br><br>
+      SOME usability is NOT appropriate for the target user. 
+  </td>
+  <td>Prototype designed WITHOUT well-defined target user in mind.
+      <br><br>
+      MOST usability is NOT appropriate for the target user.
+  </td>
+    </tr>
+    <tr>
+      <td>Prototype's Interaction Usability </td>
+      <td>The user interface uses a SIMPLE and NATURAL interaction style. 
+      <br><br>
+      INTUITIVE, EASY to learn and use.</td>
+      <td>The user interface uses a SIMPLE interaction style. 
+      <br><br>
+      EASY to use once you learn it. 
+      </td>
+      <td>SOME user interface is COMPLICATED and HARD to use. </td>
+      <td>HARD to figure out how to even get started using the prototype. </td>
+    </tr>
+    <tr>
+      <td>Mapping SQL statements to the appropriate functions</td>
+      <td>Demonstrates an EXCEPTIONAL ability to map SQL statements to appropriate functions, showing MASTERY in this skill.
+      <br><br>
+      CONSISTENTLY and INNOVATIVELY maps SQL statements to appropriate functions, optimizing performance and accuracy.
+      </td>
+      <td>CONSISTENTLY and ACCURATELY maps SQL statements to the appropriate functions.
+      <br><br>
+      CONSISTENTLY maps SQL statements to appropriate functions.
+      </td>
+          <td>ABLE to map SQL statements to APPROPRIATE functions but still needs IMPROVEMENT.
+      <br><br>
+      INCONSISTENTLY maps SQL statements to appropriate functions.
+      </td>
+          <td>Demonstrates a BASIC understanding of SQL statements and functions but STRUGGLES to map them effectively.
+      <br><br>
+      UNABLE to efficiently map SQL statements to appropriate functions.
+  </td>
+  </tr>
+</table>
+
+### 2.	Demonstrations (10%) <br>
+SQL (DDL+DML)
+
+<table>
+  <tr>
+    <th>Criteria</th>
+    <th>High (4)</th>
+    <th>Average (3)</th>
+    <th>Low (2)</th>
+    <th>Unsatisfied (1)</th>
+  </tr>
+  <tr>
+    <td>Appropriateness and Accuracy of Design </td>
+    <td>The student has created an EXCELLENT Database design that includes ALL or the 
+MAJORITY (above 90%) of the following 
+characteristics: 
+      <ul>
+        <li>•	At least 20 records have been added to the Database </li>
+<li>Appropriate Queries that include at LEAST 
+FIVE (5) DML skills</li>
+<li>Appropriate Report structure </li>
+</li>
+      </ul>
+</td>
+    <td>The student has created a GOOD Database design that includes MOST (above 50%) of the following characteristics: 
+    <ul>
+      <li>At least 20 records have been added to the Database </li>
+      <li>Appropriate Queries that include at LEAST FIVE (5) DML skills</li>
+      <li>Appropriate Report structure</li>
+</li>
+    </ul>
+    </td>
+    <td>The student has created an ACCEPTABLE Database design that includes SOME of the following characteristics: 
+    <ul>
+      <li>At least 20 records have been added to the Database </li>
+      <li>Appropriate Queries that include at LEAST FIVE (5) DML skills</li>
+      <li>Appropriate Report structure </li>
+    </ul>
+      OR
+      <br><br>
+      there are misconceptions/mistakes within the data, query, or reports that significantly alter their appropriateness of them.
+    </td>
+    <td>The student has created a SIMPLISTIC Database design that includes some of the following characteristics either superficially or is missing major components. The database is NOT suitable for the intended purpose.: 
+    <ol>
+      <li>At least 20 records have been added to the Database </li>
+      <li>Appropriate Queries that include at LEAST TWO DML skills </li>
+      <li>Appropriate Report structure including.</li>
+    </ol>
+</td>
+  </tr>
+</table>
