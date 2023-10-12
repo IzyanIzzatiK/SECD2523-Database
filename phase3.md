@@ -8,7 +8,7 @@
     - [A. Overal (2%)](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase3.md#a-overal-2)
     - [B. Database Logical Design – ERD & Normalization (6%)](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase3.md#bdatabase-logical-design--erd--normalization-6)
     - [C. Interface (2%)](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase3.md#cinterface-2)
-  - [2. Demonstrations (10%)](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase3.md#2demonstrations-10-)
+  - [2. Demonstrations (10%)](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase3.md#2demonstrations-10)
 
 
 <table>
