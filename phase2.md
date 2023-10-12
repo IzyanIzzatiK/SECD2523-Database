@@ -1,11 +1,11 @@
 # Project Phase 2
 ## Semester 1 2023/2024
 
-- [P2 Guidlines](https://github.com/IzyanIzzatiK/SECD2523-Database/edit/main/phase2.md#p2-guidelines)
-- [P2 Database Conceptual Design](https://github.com/IzyanIzzatiK/SECD2523-Database/edit/main/phase2.md#p2-database-conceptual-design)
-- [P2 Rubrics](https://github.com/IzyanIzzatiK/SECD2523-Database/edit/main/phase2.md#p2-rubric)
-  - [1. Reporting](https://github.com/IzyanIzzatiK/SECD2523-Database/edit/main/phase2.md#1-reporting-2)
-  - [2. ERD Design Process ](https://github.com/IzyanIzzatiK/SECD2523-Database/edit/main/phase2.md#2erd-design-process-3)
+- [P2 Guidlines](#https://github.com/IzyanIzzatiK/SECD2523-Database/edit/main/phase2.md#p2-guidelines)
+- [P2 Database Conceptual Design](#https://github.com/IzyanIzzatiK/SECD2523-Database/edit/main/phase2.md#p2-database-conceptual-design)
+- [P2 Rubrics](#https://github.com/IzyanIzzatiK/SECD2523-Database/edit/main/phase2.md#p2-rubric)
+  - [1. Reporting](#https://github.com/IzyanIzzatiK/SECD2523-Database/edit/main/phase2.md#1-reporting-2)
+  - [2. ERD Design Process ](#https://github.com/IzyanIzzatiK/SECD2523-Database/edit/main/phase2.md#2erd-design-process-3)
 
 <table>
   <tr>
