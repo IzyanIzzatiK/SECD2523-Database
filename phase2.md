@@ -4,8 +4,8 @@
 - [P2 Guidlines](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase2.md#p2-guidelines)
 - [P2 Database Conceptual Design](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase2.md#p2-database-conceptual-design)
 - [P2 Rubrics](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase2.md#p2-rubric)
-  - [1. Reporting](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase2.md#1-reporting-2)
-  - [2. ERD Design Process ](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase2.md#2erd-design-process-3)
+  - [1. Reporting (2%)](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase2.md#1-reporting-2)
+  - [2. ERD Design Process (3%)](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase2.md#2erd-design-process-3)
 
 <table>
   <tr>
