@@ -269,11 +269,11 @@ FIVE (5) DML skills</li>
       there are misconceptions/mistakes within the data, query, or reports that significantly alter their appropriateness of them.
     </td>
     <td>The student has created a SIMPLISTIC Database design that includes some of the following characteristics either superficially or is missing major components. The database is NOT suitable for the intended purpose.: 
-    <ol>
+    <ul>
       <li>At least 20 records have been added to the Database </li>
       <li>Appropriate Queries that include at LEAST TWO DML skills </li>
       <li>Appropriate Report structure including.</li>
-    </ol>
+    </ul>
 </td>
   </tr>
 </table>
