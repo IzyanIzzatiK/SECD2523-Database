@@ -1,11 +1,15 @@
 # Project Phase 3
 ## Semester 1 2023/2024
 
-- [P2 Guidlines](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase2.md#p2-guidelines)
-- [P2 Database Conceptual Design](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase2.md#p2-database-conceptual-design)
-- [P2 Rubrics](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase2.md#p2-rubric)
-  - [1. Reporting](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase2.md#1-reporting-2)
-  - [2. ERD Design Process ](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase2.md#2erd-design-process-3)
+- [P3 Guidelines](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase3.md#p3-guidelines)
+- [P3 Database Logical Design](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase3.md#p3-database-logical-design)
+- [P3 Rubrics](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase3.md#p3-rubrics)
+  - [1. Reporting](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase3.md#1-reporting)
+    - [A. Overal (2%)](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase3.md#a-overal-2)
+    - [B. Database Logical Design – ERD & Normalization (6%)](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase3.md#bdatabase-logical-design--erd--normalization-6)
+    - [C. Interface (2%)](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase3.md#cinterface-2)
+  - [2. Demonstrations (10%)](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/phase3.md#2demonstrations-10-)
+
 
 <table>
   <tr>
@@ -222,7 +226,7 @@ Prepare a Database conceptual design as below:
   </tr>
 </table>
 
-### 2.	Demonstrations (10%) <br>
+### 2.	Demonstrations (10%)
 SQL (DDL+DML)
 
 <table>
