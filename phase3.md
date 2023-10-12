@@ -226,8 +226,8 @@ Prepare a Database conceptual design as below:
   </tr>
 </table>
 
-### 2.	Demonstrations (10%)
-SQL (DDL+DML)
+### 2.	Demonstrations (10%) 
+### SQL (DDL+DML)
 
 <table>
   <tr>
