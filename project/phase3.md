@@ -6,10 +6,10 @@
 - [P3 Database Logical Design](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase3.md#p3-database-logical-design)
 - [P3 Rubrics](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase3.md#p3-rubrics)
   - [1. Reporting](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase3.md#1-reporting)
-    - [A. Overal (2%)](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase3.md#a-overal-2)
+    - [A. Overall (2%)](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase3.md#a-overal-2)
     - [B. Database Logical Design – ERD & Normalization (6%)](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase3.md#bdatabase-logical-design--erd--normalization-6)
     - [C. Interface (2%)](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase3.md#cinterface-2)
-  - [2. Demonstrations (10%)](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/project/main/phase3.md#2demonstrations-10)
+  - [2. Demonstrations (10%)](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase3.md#2demonstrations-10)
 
 
 <table>
@@ -90,7 +90,7 @@ Prepare a Database conceptual design as below:
 
 ## P3 Rubrics
 ### 1. Reporting
-#### A. Overal (2%)
+#### A. Overall (2%)
 <table>
   <tr>
     <th>Criteria</th>
