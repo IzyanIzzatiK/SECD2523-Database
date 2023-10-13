@@ -1,8 +1,8 @@
-<a href="https://github.com/IzyanIzzatiK/BDM/stargazers"><img src="https://img.shields.io/github/stars/IzyanIzzatiK/SECD2523-Database" alt="Stars Badge"/></a>
-<a href="https://github.com/IzyanIzzatiK/BDM/network/members"><img src="https://img.shields.io/github/forks/IzyanIzzatiK/SECD2523-Database" alt="Forks Badge"/></a>
-<a href="https://github.com/IzyanIzzatiK/BDM/pulls"><img src="https://img.shields.io/github/issues-pr/IzyanIzzatiK/SECD2523-Database" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/IzyanIzzatiK/BDM"><img src="https://img.shields.io/github/issues/IzyanIzzatiK/SECD2523-Database" alt="Issues Badge"/></a>
-<a href="https://github.com/IzyanIzzatiK/BDM/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/IzyanIzzatiK/BDM?color=2b9348"></a>
+<a href="https://github.com/IzyanIzzatiK/SECD2523-Database/stargazers"><img src="https://img.shields.io/github/stars/IzyanIzzatiK/SECD2523-Database" alt="Stars Badge"/></a>
+<a href="https://github.com/IzyanIzzatiK/SECD2523-Database/network/members"><img src="https://img.shields.io/github/forks/IzyanIzzatiK/SECD2523-Database" alt="Forks Badge"/></a>
+<a href="https://github.com/IzyanIzzatiK/SECD2523-Database/pulls"><img src="https://img.shields.io/github/issues-pr/IzyanIzzatiK/SECD2523-Database" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/IzyanIzzatiK/SECD2523-Database"><img src="https://img.shields.io/github/issues/IzyanIzzatiK/SECD2523-Database" alt="Issues Badge"/></a>
+<a href="https://github.com/IzyanIzzatiK/SECD2523-Database/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/IzyanIzzatiK/BDM?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FIzyanIzzatiK%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # Welcome to Database subject!
