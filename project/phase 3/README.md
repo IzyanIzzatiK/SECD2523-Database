@@ -9,6 +9,8 @@
     - [B. Database Logical Design – ERD & Normalization](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#bdatabase-logical-design--erd--normalization-6)
     - [C. Interface](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#cinterface-2)
   - [2. Demonstrations](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#2demonstrations-10)
+- [Submission](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%201/README.md#submission)
+
 
 
 <table>
@@ -280,7 +282,7 @@ FIVE (5) DML skills</li>
 
 ---
 
-# Database Project Phase 3 Submission
+# Submission
 
 ## Your Folder Submission
 
