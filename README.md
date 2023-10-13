@@ -25,8 +25,8 @@
   - [Academic Honesty and Plagiarism](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#academic-honesty-and-plagiarism-below-is-just-a-sample)
   - [Disclaimer](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#disclaimer) <br> <br>
 - [Project Overview](project/project_overview.md)
-  - [Phase 1](project/phase1.md)
-    - [P1 Guidlines](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase1.md#p1-guidelines)
+  - [Phase 1](project/phase-1/README.md)
+    - [P1 Guidlines](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase-1/phase1.md#p1-guidelines)
     - [P1 Proposal Item](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase1.md#p1-proposal-item)
     - [P1 Rubrics](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase1.md#p1-rubrics)
       - [1. Project Proposal](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase1.md#1-project-proposal)
