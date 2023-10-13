@@ -149,7 +149,7 @@ Prepare a Database conceptual design as below:
 </table>
 
 ---
-# Database Project Phase 1 Submission
+# Database Project Phase 2 Submission
 
 ## Your Folder Submission
 
