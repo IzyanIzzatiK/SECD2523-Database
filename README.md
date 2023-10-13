@@ -13,7 +13,7 @@
 
 - [Course Information](CI.md)
   - [Course Synopsis](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#course-synopsis)
-  - [CLO/PLO/T&L](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/mainCI.md#mapping-of-the-course-learning-outcomes-clo-to-the-programme-learning-outcomes-plo-teaching--learning-tl-methods-and-assessment-methods)
+  - [CLO/PLO/T&L](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#mapping-of-the-course-learning-outcomes-clo-to-the-programme-learning-outcomes-plo-teaching--learning-tl-methods-and-assessment-methods)
   - [Details on Innovative T&L practices](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#details-on-innovative-tl-practices)
   - [Transferable skills](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#transferable-skills-generic-skills-learned-in-course-of-study-which-can-be-useful-and-utilised-in-other-settings)
   - [Student learning time (SLT) details](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#student-learning-time-slt-details)
