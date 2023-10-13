@@ -43,12 +43,12 @@
     <td>1.</td>
     <td>
       <ul>
-        <li>- Transform the conceptual ERD in P2 into logical ERD. (e.g.: by removing non-relational features e.g.: *:* relationships, complex relationships, etc.)</li>
-        <li>- Derive relations schema from the logical ERD produced above.</li>
-        <li>- Perform normalization up till BCNF (if-any) to these relations.</li>
-        <li>- Draw the final logical ERD.</li>
-        <li>- Update the data dictionary based on the normalized relations produced from above.</li>
-        <li>- Validate logical ERD with the system’s transaction requirements using interface design.</li>
+        <li>Transform the conceptual ERD in P2 into logical ERD. (e.g.: by removing non-relational features e.g.: *:* relationships, complex relationships, etc.)</li>
+        <li>Derive relations schema from the logical ERD produced above.</li>
+        <li>Perform normalization up till BCNF (if-any) to these relations.</li>
+        <li>Draw the final logical ERD.</li>
+        <li>Update the data dictionary based on the normalized relations produced from above.</li>
+        <li>Validate logical ERD with the system’s transaction requirements using interface design.</li>
     </td>
     <td>
       A report containing the following:
