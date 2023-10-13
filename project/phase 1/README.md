@@ -7,7 +7,7 @@
 - [P1 Rubrics](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%201/README.md#p1-rubrics)
   - [1. Project Proposal](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%201/README.md#1-project-proposal)
   - [2. Database Requirements](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%201/README.md#2-database-requirements)
-- [Database Project Phase 1 Submission](https://github.com/IzyanIzzatiK/SECD2523-Database/tree/main/project/phase%201#database-project-phase-1-submission)
+- [Submission](https://github.com/IzyanIzzatiK/SECD2523-Database/tree/main/project/phase%201#database-project-phase-1-submission)
 
 
 <table>
@@ -225,7 +225,7 @@ Time allocation for each task is UNLOGIC and UNACCEPTABLE.
 
 ---
 
-# Database Project Phase 1 Submission
+# Submission
 
 ## Your Folder Submission
 
