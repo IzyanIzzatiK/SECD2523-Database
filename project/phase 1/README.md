@@ -11,7 +11,7 @@
   <tr>
     <td>1</td>
     <td>Simon</td>
-    <th><a href="project/phase-1/submission" ><img src="../images/folder.png" width="24px" height="24px" ></a></th>
+    <th><a href="submission" ><img src="../images/folder.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>2</td>
