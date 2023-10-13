@@ -24,6 +24,7 @@
     - [Online](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#online)
   - [Academic Honesty and Plagiarism](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#academic-honesty-and-plagiarism-below-is-just-a-sample)
   - [Disclaimer](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#disclaimer) <br> <br>
+  
 - [Project Overview](project/project_overview.md)
   - [Phase 1](project/phase%201/README.md)
     - [P1 Guidlines](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%201/README.md#p1-guidelines)
@@ -31,12 +32,16 @@
     - [P1 Rubrics](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%201/README.md#p1-rubrics)
       - [1. Project Proposal](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%201/README.md#1-project-proposal)
       - [2. Database Requirements](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%201/README.md#2-database-requirements)
+    - [Submission](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%201/README.md#submission)
+
   - [Phase 2](project/phase%202/README.md)
     - [P2 Guidlines](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%202/README.md#p2-guidelines)
     - [P2 Database Conceptual Design](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%202/README.md#p2-database-conceptual-design)
     - [P2 Rubrics](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%202/README.md#p2-rubric)
       - [1. Reporting](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%202/README.md#1-reporting-2)
       - [2. ERD Design Process ](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%202/README.md#2erd-design-process-3)
+    - [Submission](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%202/README.md#submission)
+
   - [Phase 3](project/phase%203/README.md)
     - [P3 Guidelines](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#p3-guidelines)
     - [P3 Database Logical Design](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#p3-database-logical-design)
@@ -46,3 +51,5 @@
         - [B. Database Logical Design – ERD & Normalization](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#bdatabase-logical-design--erd--normalization-6)
         - [C. Interface](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#cinterface-2)
       - [2. Demonstrations](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#2demonstrations-10)
+    - [Submission](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#submission)
+
