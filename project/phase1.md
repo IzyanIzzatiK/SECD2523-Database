@@ -1,11 +1,13 @@
 # Project Phase 1
 ## Semester 1 2023/2024
 
-- [P1 Guidlines](#p1-guidelines)
-- [P1 Proposal Item](#p1-proposal-item)
-- [P1 Rubrics](#p1-rubrics)
-  - [1. Project Proposal](#1-project-proposal)
-  - [2. Database Requirements](#2-database-requirements)
+
+- [P1 Guidlines](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase1.md#p1-guidelines)
+- [P1 Proposal Item](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase1.md#p1-proposal-item)
+- [P1 Rubrics](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase1.md#p1-rubrics)
+  - [1. Project Proposal](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase1.md#1-project-proposal)
+  - [2. Database Requirements](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase1.md#2-database-requirements)
+
 
 <table>
   <tr>
