@@ -16,6 +16,6 @@
   <tr>
     <td>2</td>
     <td>Clive</td>
-    <td></td>
+    <th><a href="submission" ><img src="../images/folder.png" width="24px" height="24px" ></a></th>
   </tr>
 </table>
