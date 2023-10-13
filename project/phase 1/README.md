@@ -11,7 +11,7 @@
   <tr>
     <td>1</td>
     <td>Simon</td>
-    <td></td>
+    <th><a href="./uml/submission/sec01/drshahizan/mcq1.md" ><img src="../images/folder.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>2</td>
