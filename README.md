@@ -47,7 +47,7 @@
     - [P3 Database Logical Design](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#p3-database-logical-design)
     - [P3 Rubrics](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#p3-rubrics)
       - [1. Reporting](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#1-reporting)
-        - [A. Overall](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#a-overal-2)
+        - [A. Overall](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#a-overall-2)
         - [B. Database Logical Design – ERD & Normalization](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#bdatabase-logical-design--erd--normalization-6)
         - [C. Interface](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#cinterface-2)
       - [2. Demonstrations](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#2demonstrations-10)
