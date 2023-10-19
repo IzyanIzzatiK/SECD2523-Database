@@ -122,21 +122,21 @@
   <tr>
     <th>1</th>
     <th>Phase 1</th>
-    <th></th>
+    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>2</td>
     <td>Phase 2</td>
-    <td></td>
+    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>3</td>
     <td>Phase 3</td>
-    <td></td>
+    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>4</td>
     <td>Phase 4</td>
-    <td></td>
+    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
 </table>
