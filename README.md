@@ -35,22 +35,22 @@
   <tr>
     <td>1</td>
     <td>SQL 1: DDl</td>
-    <td></td>
+    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>2</td>
     <td>SQL 2: DML</td>
-    <td></td>
+    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>3</td>
     <td>SQL 3: </td>
-    <td></td>
+    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>4</td>
     <td>SQL 4:</td>
-    <td></td>
+    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
 </table>
 
