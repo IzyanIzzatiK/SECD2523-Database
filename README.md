@@ -11,7 +11,7 @@
 
 # Table of Content
 
-## Course Information
+## **_Course Information_**
   - [Course Synopsis](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#course-synopsis)
   - [CLO/PLO/T&L](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#mapping-of-the-course-learning-outcomes-clo-to-the-programme-learning-outcomes-plo-teaching--learning-tl-methods-and-assessment-methods)
   - [Details on Innovative T&L practices](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#details-on-innovative-tl-practices)
@@ -23,10 +23,68 @@
     - [Additional references](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#additional-references)
     - [Online](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#online)
   - [Academic Honesty and Plagiarism](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#academic-honesty-and-plagiarism-below-is-just-a-sample)
-  - [Disclaimer](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#disclaimer) <br> <br>
+  - [Disclaimer](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#disclaimer) <br> <be>
 
-## Project 
-- [Project Overview](project/project_overview.md)
+## **_Lab Notes_**
+<table>
+  <tr>
+    <th>No.</th>
+    <th>Module</th>
+    <th>File</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>SQL 1: DDl</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>SQL 2: DML</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>SQL 3: </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>SQL 4:</td>
+    <td></td>
+  </tr>
+</table>
+
+## **_Lab Exercises Submission_**
+<table>
+  <tr>
+    <th>No.</th>
+    <th>Lab Exercises</th>
+    <th>Submission</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Lab Exercise 1</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Lab Exercise 2</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Lab Exercise 3</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Lab Exercise 4</td>
+    <td></td>
+  </tr>
+</table>
+
+## **_Project_** 
+- [Project Phases](project/project_overview.md)
   - [Phase 1](project/phase%201/README.md)
     - [P1 Guidlines](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%201/README.md#p1-guidelines)
     - [P1 Proposal Item](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%201/README.md#p1-proposal-item)
@@ -54,3 +112,31 @@
       - [2. Demonstrations](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#2demonstrations-10)
     - [Submission](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#submission)
 
+## **_Project Submission_**
+<table>
+  <tr>
+    <th>No.</th>
+    <th>Phases</th>
+    <th>File</th>
+  </tr>
+  <tr>
+    <th>1</th>
+    <th>Phase 1</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Phase 2</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Phase 3</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Phase 4</td>
+    <td></td>
+  </tr>
+</table>
