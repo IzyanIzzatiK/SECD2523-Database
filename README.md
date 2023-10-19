@@ -128,8 +128,8 @@
     <th>File</th>
   </tr>
   <tr>
-    <th>1</th>
-    <th>Phase 1</th>
+    <td>1</td>
+    <td>Phase 1</td>
     <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
