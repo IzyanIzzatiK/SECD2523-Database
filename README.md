@@ -11,7 +11,7 @@
 
 # Table of Content
 
-- [Course Information](CI.md)
+## Course Information
   - [Course Synopsis](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#course-synopsis)
   - [CLO/PLO/T&L](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#mapping-of-the-course-learning-outcomes-clo-to-the-programme-learning-outcomes-plo-teaching--learning-tl-methods-and-assessment-methods)
   - [Details on Innovative T&L practices](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#details-on-innovative-tl-practices)
@@ -23,8 +23,9 @@
     - [Additional references](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#additional-references)
     - [Online](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#online)
   - [Academic Honesty and Plagiarism](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#academic-honesty-and-plagiarism-below-is-just-a-sample)
-  - [Disclaimer](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#disclaimer) <br> <br>
-  
+  - [Disclaimer](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#disclaimer) <br> <be>
+
+## Project 
 - [Project Overview](project/project_overview.md)
   - [Phase 1](project/phase%201/README.md)
     - [P1 Guidlines](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%201/README.md#p1-guidelines)
