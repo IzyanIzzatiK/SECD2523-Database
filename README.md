@@ -63,7 +63,7 @@
   <tr>
     <th>No.</th>
     <th>Lab Exercises</th>
-    <th>Submission</th>
+    <th>File</th>
   </tr>
   <tr>
     <td>1</td>
@@ -101,22 +101,17 @@
   <tr>
     <td>1</td>
     <td>Phase 1</td>
-    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%201/README.md#project-phase-1" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>2</td>
     <td>Phase 2</td>
-    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="https://github.com/IzyanIzzatiK/SECD2523-Database/tree/main/project/phase%202#project-phase-2" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>3</td>
     <td>Phase 3</td>
-    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Phase 4</td>
-    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="https://github.com/IzyanIzzatiK/SECD2523-Database/tree/main/project/phase%203#project-phase-3" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
 </table>
 
@@ -140,11 +135,6 @@
   <tr>
     <td>3</td>
     <td>Phase 3</td>
-    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Phase 4</td>
     <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
 </table>
