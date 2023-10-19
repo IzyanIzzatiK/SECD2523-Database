@@ -64,22 +64,22 @@
   <tr>
     <td>1</td>
     <td>Lab Exercise 1</td>
-    <td><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></td>
+    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>2</td>
     <td>Lab Exercise 2</td>
-    <td><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></td>
+    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>3</td>
     <td>Lab Exercise 3</td>
-    <td><a href="" ><img src="./images/rfp.png" width="24px" height="24px" ></a></td>
+    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>4</td>
     <td>Lab Exercise 4</td>
-    <td><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></td>
+    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
 </table>
 
