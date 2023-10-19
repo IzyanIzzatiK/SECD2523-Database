@@ -64,7 +64,7 @@
   <tr>
     <th>No.</th>
     <th>Lab Exercises</th>
-    <th>Submission</th>
+    <th>File</th>
   </tr>
   <tr>
     <td>1</td>
