@@ -27,7 +27,8 @@
 
 ---
 
-## **_Lab Notes_**
+## **_Lab_**
+### **_Lab Notes_**
 <table>
   <tr>
     <th>No.</th>
