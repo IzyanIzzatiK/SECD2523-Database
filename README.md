@@ -23,7 +23,7 @@
     - [Additional references](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#additional-references)
     - [Online](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#online)
   - [Academic Honesty and Plagiarism](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#academic-honesty-and-plagiarism-below-is-just-a-sample)
-  - [Disclaimer](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#disclaimer) <br> <be>
+  - [Disclaimer](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/CI.md#disclaimer) <br> <br>
 
 ## Project 
 - [Project Overview](project/project_overview.md)
