@@ -138,9 +138,4 @@
     <td>Phase 3</td>
     <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
-  <tr>
-    <td>4</td>
-    <td>Phase 4</td>
-    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
-  </tr>
 </table>
