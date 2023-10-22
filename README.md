@@ -73,17 +73,17 @@
   <tr>
     <td>2</td>
     <td>Lab Exercise 2</td>
-    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="lab/lab-exercise2.md" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>3</td>
     <td>Lab Exercise 3</td>
-    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="lab/lab-exercise3.md" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>4</td>
     <td>Lab Exercise 4</td>
-    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="lab/lab-exercise4.md" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
 </table>
 
