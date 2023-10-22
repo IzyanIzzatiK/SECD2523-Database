@@ -125,16 +125,16 @@
   <tr>
     <td>1</td>
     <td>Phase 1</td>
-    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="project/submission/phase1" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>2</td>
     <td>Phase 2</td>
-    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="project/submission/phase1" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>3</td>
     <td>Phase 3</td>
-    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="project/submission/phase1" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
 </table>
