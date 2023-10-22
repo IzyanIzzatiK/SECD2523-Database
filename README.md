@@ -68,7 +68,7 @@
   <tr>
     <td>1</td>
     <td>Lab Exercise 1</td>
-    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="lab/lab-exercise1.md" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>2</td>
