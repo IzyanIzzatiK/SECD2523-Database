@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>1</td>
-    <td>SQL 1: DDl</td>
+    <td>SQL 1: DDL</td>
     <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
