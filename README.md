@@ -57,7 +57,6 @@
   </tr>
 </table>
 
----
 
 ## **_Lab Exercises Submission_**
 <table>
