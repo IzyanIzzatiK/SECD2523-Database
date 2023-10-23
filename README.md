@@ -86,7 +86,7 @@
   </tr>
 </table>
 
-## **_Lab Exercises Submission_**
+### **_Lab Exercises Submission_**
 <table>
   <tr>
     <th>No.</th>
