@@ -38,22 +38,22 @@
   <tr>
     <td>1</td>
     <td>SQL 1: DDL</td>
-    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="https://github.com/simonnchong/SECD2523-Database/tree/main/lab/Student%20notes/DDL" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>2</td>
     <td>SQL 2: DML 1</td>
-    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="https://github.com/simonnchong/SECD2523-Database/tree/main/lab/Student%20notes/DML1" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>3</td>
     <td>SQL 3: DML 2 </td>
-    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="https://github.com/simonnchong/SECD2523-Database/tree/main/lab/Student%20notes/DML2" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
   <tr>
     <td>4</td>
     <td>SQL 4: DML 3</td>
-    <th><a href="" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
+    <th><a href="https://github.com/simonnchong/SECD2523-Database/tree/main/lab/Student%20notes/DML3" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
   </tr>
 </table>
 
