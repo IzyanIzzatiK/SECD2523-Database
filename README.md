@@ -57,7 +57,7 @@
   </tr>
 </table>
 
-### **_Lab Exercise_**
+### **_Lab Exercises_**
 <table>
   <tr>
     <th>No.</th>
