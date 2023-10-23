@@ -149,26 +149,3 @@ Prepare a Database conceptual design as below:
     <td>WRONG the use of names, definitions in entities and attributes. Shows NO understanding in identifying the tables based on the case study.</td>
   </tr>
 </table>
-
----
-# Submission
-
-## Your Folder Submission
-
-<table>
-  <tr>
-    <th>No</th>
-    <th>Name</th>
-    <th>Folder</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Simon</td>
-    <th><a href="submission" ><img src="../images/folder.png" width="24px" height="24px" ></a></th>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Clive</td>
-    <th><a href="submission" ><img src="../images/folder.png" width="24px" height="24px" ></a></th>
-  </tr>
-</table>
