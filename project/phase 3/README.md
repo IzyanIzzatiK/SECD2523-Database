@@ -9,7 +9,7 @@
     - [B. Database Logical Design – ERD & Normalization](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#bdatabase-logical-design--erd--normalization-6)
     - [C. Interface](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#cinterface-2)
   - [2. Demonstrations](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#2demonstrations-10)
-- [Submission]([#submission](https://github.com/simonnchong/SECD2523-Database/tree/main/project/phase%203/submission))
+- [Submission](https://github.com/simonnchong/SECD2523-Database/tree/main/project/phase%203/submission)
 
 
 
