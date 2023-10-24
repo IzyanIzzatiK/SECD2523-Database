@@ -118,7 +118,7 @@
 ---
 
 ## **_Project_** 
-
+### [Project Overview](https://github.com/simonnchong/SECD2523-Database/blob/main/project/project_overview.md)
 ### **_Project Phases_** 
 <table>
   <tr>
@@ -164,6 +164,5 @@
     <td>3</td>
     <td>Phase 3</td>
     <th><a href="project/submission/phase3.md" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
-    <td>asdasd</td>
   </tr>
 </table>
