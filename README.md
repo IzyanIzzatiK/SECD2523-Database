@@ -118,7 +118,7 @@
 ---
 
 ## **_Project_** 
-
+### [Project Overview](https://github.com/simonnchong/SECD2523-Database/blob/main/project/project_overview.md)
 ### **_Project Phases_** 
 <table>
   <tr>
