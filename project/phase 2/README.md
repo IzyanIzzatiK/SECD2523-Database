@@ -7,7 +7,7 @@
 - [P2 Rubrics](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%202/README.md#p2-rubric)
   - [1. Reporting](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%202/README.md#1-reporting-2)
   - [2. ERD Design Process ](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%202/README.md#2erd-design-process-3)
-- [Submission](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%202/README.md#submission)
+- [Submission](https://github.com/simonnchong/SECD2523-Database/tree/main/project/phase%202/submission)
 
 
 
