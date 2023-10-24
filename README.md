@@ -164,6 +164,5 @@
     <td>3</td>
     <td>Phase 3</td>
     <th><a href="project/submission/phase3.md" ><img src="project/images/rfp.png" width="24px" height="24px" ></a></th>
-    <td>asdasd</td>
   </tr>
 </table>
