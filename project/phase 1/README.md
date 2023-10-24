@@ -7,7 +7,7 @@
 - [P1 Rubrics](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%201/README.md#p1-rubrics)
   - [1. Project Proposal](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%201/README.md#1-project-proposal)
   - [2. Database Requirements](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%201/README.md#2-database-requirements)
-- [Submission](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%201/README.md#submission)
+- [Submission](https://github.com/simonnchong/SECD2523-Database/tree/main/project/phase%203/submission)
 
 
 <table>
