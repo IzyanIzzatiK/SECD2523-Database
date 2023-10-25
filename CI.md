@@ -34,18 +34,18 @@
 
 ---
 
-- [Course Synopsis](CI.md#course-synopsis)
-- [CLO/PLO/T&L](CI.md#mapping-of-the-course-learning-outcomes-clo-to-the-programme-learning-outcomes-plo-teaching--learning-tl-methods-and-assessment-methods)
-- [Details on Innovative T&L practices](CI.md#details-on-innovative-tl-practices)
-- [Transferable skills](CI.md#transferable-skills-generic-skills-learned-in-course-of-study-which-can-be-useful-and-utilised-in-other-settings)
-- [Student learning time (SLT) details](CI.md#student-learning-time-slt-details)
-- [Special requirements](CI.md#special-requirements-to-deliver-the-course-eg-software-nursery-computer-lab-simulation-room)
-- [Learning Resources](CI.md#learning-resources)
-  - [Main references](CI.md#main-references)
-  - [Additional references](CI.md#additional-references)
-  - [Online](CI.md#online)
-- [Academic Honesty and Plagiarism](CI.md#academic-honesty-and-plagiarism-below-is-just-a-sample)
-- [Disclaimer](CI.md#disclaimer)
+- [Course Synopsis](#course-synopsis)
+- [CLO/PLO/T&L](#mapping-of-the-course-learning-outcomes-clo-to-the-programme-learning-outcomes-plo-teaching--learning-tl-methods-and-assessment-methods)
+- [Details on Innovative T&L practices](#details-on-innovative-tl-practices)
+- [Transferable skills](#transferable-skills-generic-skills-learned-in-course-of-study-which-can-be-useful-and-utilised-in-other-settings)
+- [Student learning time (SLT) details](#student-learning-time-slt-details)
+- [Special requirements](#special-requirements-to-deliver-the-course-eg-software-nursery-computer-lab-simulation-room)
+- [Learning Resources](#learning-resources)
+  - [Main references](#main-references)
+  - [Additional references](#additional-references)
+  - [Online](#online)
+- [Academic Honesty and Plagiarism](#academic-honesty-and-plagiarism-below-is-just-a-sample)
+- [Disclaimer](#disclaimer)
 
 ---
 
