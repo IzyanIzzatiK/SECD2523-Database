@@ -1,6 +1,6 @@
 # Submission of Lab Exercise 4
 
-[link]: "submissions/lab4"
+[link]: submissions/lab4
 
 <table>
   <tr>
