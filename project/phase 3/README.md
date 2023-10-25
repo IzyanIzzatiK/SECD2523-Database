@@ -1,16 +1,14 @@
 # Project Phase 3
 ## Semester 1 2023/2024
 
-- [P3 Guidelines](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#p3-guidelines)
-- [P3 Database Logical Design](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#p3-database-logical-design)
-- [P3 Rubrics](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#p3-rubrics)
-  - [1. Reporting](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#1-reporting)
-    - [A. Overall](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#a-overall-2)
-    - [B. Database Logical Design – ERD & Normalization](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#bdatabase-logical-design--erd--normalization-6)
-    - [C. Interface](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#cinterface-2)
-  - [2. Demonstrations](https://github.com/IzyanIzzatiK/SECD2523-Database/blob/main/project/phase%203/README.md#2demonstrations-10)
-- [Submission](https://github.com/simonnchong/SECD2523-Database/tree/main/project/phase%203/submission)
-
+- [P3 Guidelines](#p3-guidelines)
+- [P3 Database Logical Design](#p3-database-logical-design)
+- [P3 Rubrics](#p3-rubrics)
+  - [1. Reporting](#1-reporting)
+    - [A. Overall](#a-overall-2)
+    - [B. Database Logical Design – ERD & Normalization](#bdatabase-logical-design--erd--normalization-6)
+    - [C. Interface](#cinterface-2)
+  - [2. Demonstrations](#2demonstrations-10)
 
 
 <table>
