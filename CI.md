@@ -368,7 +368,6 @@ L: Lecture, T: Tutorial, P: Practical, O: Others
 
 
 ### Academic honesty and plagiarism: (Below is just a sample)
-Assignments are individual tasks and NOT group activities (UNLESS EXPLICITLY INDICATED AS GROUP ACTIVITIES) 
 Copying of work (texts, simulation results etc.) from other students/groups or from other sources is not allowed. Brief quotations are allowed and then only if indicated as such. Existing texts should be reformulated with your own words used to explain what you have read. It is not acceptable to retype existing texts and just acknowledge the source as a reference. Be warned: students who submit copied work will obtain a mark of zero for the assignment and disciplinary steps may be taken by the Faculty.  It is also unacceptable to do somebody else’s work, to lend your work to them or to make your work available to them to copy.
 
 ### Disclaimer:
